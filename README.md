@@ -1,4 +1,4 @@
-# platzi-exchange
+# Cotizaciones criptomonedas
 
 ## Project setup
 ```
